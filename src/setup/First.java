@@ -5,6 +5,6 @@ public class First {
         System.out.println("hello");
         //new notes
         
-        //this is about commiting
+        //this is about commitment
     }
 }
