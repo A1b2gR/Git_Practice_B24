@@ -2,11 +2,11 @@ package setup;
 
 public class First {
     public static void main (String[] args){
-        System.out.println("hello");
+        System.out.println("hello world");
         //new notes
         
         //this is about commitment
-        
+        //sgsgs
         
         //need to add this to new files
         
