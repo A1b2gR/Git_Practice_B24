@@ -1,4 +1,4 @@
-package setup.Test;
+package Test;
 
 public class TestCases {
     public static void main(String[] args) {
